@@ -10,7 +10,7 @@ set_site_information(
     planning=["Devin Karadagli - Final Project 1_ Design.pdf"],
     links=["https://github.com/devkara-udel/workout-log-website"]
 )
-show_debug_information()
+hide_debug_information()
 set_website_title("Workout Log")
 set_website_framed(False)
 
