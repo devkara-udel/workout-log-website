@@ -7,8 +7,8 @@ set_site_information(
     author="Devin Karadagli",
     description="A simple workout log. Add workouts, view your history, and track your progress toward a weekly goal.",
     sources=["Official Drafter documentation only"],
-    planning=["PUT_YOUR_PLANNING_FILE_NAME_HERE.pdf"],
-    links=["https://github.com/YOUR-USERNAME/YOUR-REPO"]
+    planning=["Devin Karadagli - Final Project 1_ Design.pdf"],
+    links=["https://github.com/devkara-udel/workout-log-website"]
 )
 hide_debug_information()
 set_website_title("Workout Log")
